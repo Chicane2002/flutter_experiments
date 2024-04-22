@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987662516932",
+    "project_id": "firstapp-24009",
+    "storage_bucket": "firstapp-24009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987662516932:android:c7a70bf5ce710129437f91",
+        "android_client_info": {
+          "package_name": "com.example.p10_blinkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987662516932-91nqsuclk6d5e9uepjps9udpfiigt2hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDOWx8GOPLvfeEGh0MDgSp_0URBLl0ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987662516932-91nqsuclk6d5e9uepjps9udpfiigt2hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
